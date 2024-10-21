@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Shubhang 👋
 
-<!--
-**hshubhang/hshubhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate Software engineer currently located in the US. I graduated with a Masters degree in Computer Science from University of California, Riverside Go Highlanders![Highlanders Logo](uc_riverside_highlanders_2020-pres.png) I love building things that make a difference and exploring new technologies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Web Crawler in GoLang.
+- 🌱 Currently learning GoLang, LLM, Docker and Kubernetes.
+- 📫 How to reach me: [Email me](shubhanghasabnis@gmail.com).
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📈 Contribution Graph
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat-square)](https://www.linkedin.com/in/shubhang-hasabnis-8b172217a/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](shubhanghasabnis@gmail.com)
