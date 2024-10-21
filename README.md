@@ -1,7 +1,7 @@
 # Hi there, I'm Shubhang 👋
 
 ## 🚀 About Me
-I'm a passionate Software engineer currently located in the US. I graduated with a Masters degree in Computer Science from University of California, Riverside Go Highlanders!<img src="https://github.com/hshubhang/main/uc_riverside_highlanders_2020-pres.png" alt="Highlanders Logo" width="20" height="20" /> I love building things that make a difference and exploring new technologies. 
+I'm a passionate Software engineer currently located in the US. I graduated with a Masters degree in Computer Science from University of California, Riverside Go Highlanders!<img src="uc_riverside_highlanders_2020-pres.png" alt="Highlanders Logo" width="20" height="20" /> I love building things that make a difference and exploring new technologies. 
 
 - 🔭 I’m currently working on a Web Crawler in GoLang.
 - 🌱 Currently learning GoLang, LLM, Docker and Kubernetes.
