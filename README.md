@@ -5,7 +5,7 @@ I'm a passionate Software engineer currently located in the US. I graduated with
 
 - 🔭 I’m currently working on a Web Crawler in GoLang.
 - 🌱 Currently learning GoLang, LLM, Docker and Kubernetes.
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](shubhanghasabnis@gmail.com)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:shubhanghasabnis@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
