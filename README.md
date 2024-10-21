@@ -22,10 +22,8 @@ I'm a passionate Software engineer currently located in the US. I graduated with
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 ## 🔥 Top Repositories
-
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=repository-name-1&theme=radical)](https://github.com/hshubhang/NatGen)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=repository-name-2&theme=radical)](https://github.com/hshubhang/MLP-Hyperparameter-Optimization)
-
+[![NatGen](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=NatGen&theme=radical)](https://github.com/hshubhang/NatGen)
+[![MLP-Hyperparameter-Optimization](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=MLP-Hyperparameter-Optimization&theme=radical)](https://github.com/hshubhang/MLP-Hyperparameter-Optimization)
 ## 📫 Let's Connect!
 <p align="left"> <a href="https://github.com/hshubhang" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shubhang-hasabnis-8b172217a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
