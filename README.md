@@ -1,7 +1,5 @@
 # Hi there, I'm Shubhang 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
-
 ## 🚀 About Me
 I'm a passionate Software engineer currently located in the US. I graduated with a Masters degree in Computer Science from University of California, Riverside Go Highlanders![Highlanders Logo](uc_riverside_highlanders_2020-pres.png) I love building things that make a difference and exploring new technologies. 
 
