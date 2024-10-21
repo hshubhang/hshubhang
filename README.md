@@ -5,7 +5,7 @@ I'm a passionate Software engineer currently located in the US. I graduated with
 
 - 🔭 I’m currently working on a Web Crawler in GoLang.
 - 🌱 Currently learning GoLang, LLM, Docker and Kubernetes.
-- 📫 How to reach me: [Email me](mailto:shubhanghasabnis@gmail.com).
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](shubhanghasabnis@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -27,5 +27,5 @@ I'm a passionate Software engineer currently located in the US. I graduated with
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=repository-name-2&theme=radical)](https://github.com/hshubhang/MLP-Hyperparameter-Optimization)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=flat-square)](https://www.linkedin.com/in/shubhang-hasabnis-8b172217a/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](shubhanghasabnis@gmail.com)
+<p align="left"> <a href="https://github.com/hshubhang" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shubhang-hasabnis-8b172217a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
