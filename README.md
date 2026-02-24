@@ -20,9 +20,6 @@ I'm a passionate Software engineer currently located in the US. I graduated with
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hshubhang&layout=compact&theme=radical&hide=html,css&langs_count=6)
-
-## 🔥 Top Repositories
 [![Domain Name generator](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=Domain_name_checker&theme=radical)](https://github.com/hshubhang/Domain_name_checker)
 [![Distributed Text to Video Generator](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=Text_to_video_generator&theme=radical)](https://github.com/hshubhang/Text_to_video_generator)
 [![MLP-Hyperparameter-Optimization](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=MLP-Hyperparameter-Optimization&theme=radical)](https://github.com/hshubhang/MLP-Hyperparameter-Optimization)
