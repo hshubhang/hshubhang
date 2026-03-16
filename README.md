@@ -21,7 +21,7 @@ I'm a passionate Software engineer currently located in the US. I graduated with
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 ## 📊 Languages Used Across Repos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshubhang&layout=compact&theme=radical&langs_count=10)](https://github.com/hshubhang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshubhang&layout=compact&theme=radical&langs_count=10&include_forks=true)](https://github.com/hshubhang)
 
 [![Domain Name generator](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=Domain_name_checker&theme=radical)](https://github.com/hshubhang/Domain_name_checker)
 [![Distributed Text to Video Generator](https://github-readme-stats.vercel.app/api/pin/?username=hshubhang&repo=Text_to_video_generator&theme=radical)](https://github.com/hshubhang/Text_to_video_generator)
