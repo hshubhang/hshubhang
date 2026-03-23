@@ -19,6 +19,8 @@ I'm a passionate Software engineer currently located in the US. I graduated with
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 
 ## 📊 Languages Used Across Repos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshubhang&layout=donut-vertical&theme=radical&langs_count=10&include_forks=true)](https://github.com/hshubhang)
