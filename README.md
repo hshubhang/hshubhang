@@ -1,11 +1,6 @@
 # Hi there, I'm Shubhang 👋
 
-## 🚀 About Me
-I'm a passionate Software engineer currently located in the US. I graduated with a Masters degree in Computer Science from University of California, Riverside Go Highlanders!<img src="uc_riverside_highlanders_2020-pres.png" alt="Highlanders Logo" width="20" height="20" /> I love building things that make a difference and exploring new technologies. 
-
-- 🔭 I’m currently working on a custom NLP pipeline which employs LLM and spaCy
-- 🌱 Currently learning Kubernetes, LLM, RAG.
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:shubhanghasabnis@gmail.com)
+ I like to Code.
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
